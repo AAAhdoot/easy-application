@@ -17,18 +17,24 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Acorns](https://www.acorns.com/careers) | Irvine, CA |
 | [Acquia](https://www.acquia.com/careers/open-positions) | Boston, MA; New Delhi, India; Portland, OR; Remote; Toronto, Canada |
 | [Addepar](https://addepar.com/careers/) | Mountain View, CA |
+| [Adobe](https://www.adobe.com/careers.html) | San Francisco, CA; San Jose, CA |
 | [Affirm](https://www.affirm.com/careers/) | San Francisco, CA |
 | [Ahrefs](https://ahrefs.com/jobs) | Remote; Singapore |
 | [Airbnb](https://www.airbnb.com/careers) | San Francisco, CA |
 | [Airtable](https://airtable.com/jobs) | San Francisco, CA |
+| [Alarm](http://www.alarm.com/about/open-positions.aspx?p=job/oV3e6fw2&nl=1) | Boston, MA |
 | [Algebraix](http://algebraixdata.com/section/careers/) | San Diego, CA |
 | [Algolia](https://www.algolia.com/careers) | Paris, France; San Francisco, CA |
 | [AltSchool](https://www.altschool.com/about/careers) | San Francisco, CA |
+| [Amazon](https://www.amazon.jobs/) | San Francisco, CA; Seattle, WA |
+| [American Express](https://jobs.americanexpress.com/jobs/17010517/Campus+Undergraduate+-+2018+Software+Engineer+Summer+Internship?lang=en-US) | San Francisco, CA |
 | [Amino](https://amino.com/careers/) | San Francisco, CA |
 | [Amobee](http://www.amobee.com/careers/) | Foster City, CA |
 | [Ancestry](http://www.ancestry.com/corporate/careers/) | Lehi, UT; San Francisco, CA |
 | [ANDigital](https://and.digital/join-us/) | London, WC2N 4JF, UK |
 | [Angellist](https://angel.co/angellist/jobs) | San Francisco, CA; New York, NY |
+| [App Dynamics](https://www.appdynamics.com/company/careers/engineering/) | San Francisco, CA |
+| [Apple](https://www.apple.com/jobs/us/) | Cupertino, CA |
 | [AppFolio](http://www.appfolioinc.com/jobs) | San Diego, CA; Santa Barbara, CA |
 | [AppNexus](https://www.appnexus.com/en/company/careers) | New York, NY |
 | [Apptio](http://www.apptio.com/about/careers) | Bellevue, WA |
@@ -38,6 +44,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Atomic](https://atomic.vc/careers/) | San Francisco, CA; Waterloo, Canada |
 | [Audience](http://www.audience.com/eng/Our-company/Careers) | Mountain View, CA |
 | [August](http://august.com/jobs/#.Vo1p-JMrKHo) | San Francisco, CA |
+| [Audible](https://www.audiblecareers.com/job/AUDIUS55/Software-Development-Engineer) | Newark, NJ |
 | [AutomatedInsights](https://automatedinsights.com/company) | Durham, NC |
 | [Automattic](https://automattic.com/work-with-us/) | San Francisco, CA |
 | [BambooHR](https://www.bamboohr.com/about/careers.php) | Lindon, UT |
@@ -50,6 +57,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [BitTiger](https://careers.bittiger.io/jobs/) | Santa Clara, CA |
 | [BitTorrent](http://www.bittorrent.com/company/about/jobs) | San Francisco, CA  |
 | [Blend Labs](https://blendlabs.com/careers/) | San Francisco, CA |
+| [Bloomberg](https://www.bloomberg.com/careers/) | New York, NY |
 | [Bloomz](https://www.bloomz.net/jobs/) | Redmond, WA |
 | [Blue Origin](https://www.blueorigin.com/careers) | Kent, WA |
 | [Bonuz](http://bonuz.sumone.com.br/contato.html#talent) | Florianópolis, SC, Brazil |
@@ -62,6 +70,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Busbud](https://www.busbud.com/en/careers) | Montreal, Quebec |
 | [BuzzFeed](https://www.buzzfeed.com/about/jobs) | Los Angeles, CA; New York, NY |
 | [Canary](https://canary.is/careers/) | New York, NY |
+| [Capital One](https://www.capitalonecareers.com/) | New York, NY |
 | [Capsule](https://www.capsulecares.com/about/) | New York, NY |
 | [Captain401](https://captain401.com/careers) | San Francisco, CA |
 | [Carbon](https://jobs.lever.co/carbon/) | Redwood City, CA |
@@ -69,14 +78,17 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Casetext](https://casetext.com/jobs) | San Francisco, CA |
 | [Casper](http://www.casper.com/jobs) | New York, NY |
 | [Catchpoint](http://www.catchpoint.com/careers/) | New York, NY |
+| [Celmatix](https://celmatix.com/careers) | New York, NY |
 | [Centro](https://www.centro.net/careers) | Chicago, IL |
 | [change.org](https://www.change.org/careers) | San Francisco, CA |
 | [Chaordic](https://www.chaordic.com.br/vagas/) | Florianópolis, SC, Brazil |
+| [ChartBeat](https://chartbeat.com/careers/) | New York, NY |
 | [Checkr](https://checkr.com/careers/) | San Francisco, CA |
 | [Cheesecake Labs](https://cheesecakelabs.com/careers/) | Florianópolis, SC, Brazil; San Francisco, CA |
 | [Chewy](https://www.chewy.com/jobs) | Dania Beach, FL |
 | [Chexology](https://jobs.lever.co/chexology) | New York, NY |
-| [CircleUp](https://circleup.com/jobs/) | San Francisco, CA ||  |
+| [CircleUp](https://circleup.com/jobs/) | San Francisco, CA |
+| [Cisco](https://www.cisco.com/c/en/us/about/careers/working-at-cisco/students-and-new-graduate-programs.html) | California |
 | [Citrix](https://jobs.citrix.com/) |  Fort Lauderdale, FL; Santa Clara, CA; Remote |
 | [Classy](https://www.classy.org/careers) | San Diego, CA |
 | [ClearSlide](http://www.clearslide.com/careers/) | San Francisco, CA |
@@ -107,6 +119,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Curse](https://www.curseinc.com/careers?cookieTest=1) | Astoria, NY; Berlin, Germany; El Segundo, CA; Huntsville, AL; Irvine, CA; London; Paris, France; Sydney, Australia |
 | [Curalate](https://www.themuse.com/companies/curalate) | London, UK; New York, NY; Philadelphia, PA; Seattle, WA |
 | [Datadog](https://www.datadoghq.com/careers/) | Boston, MA; New York, NY; Paris, FR |
+| [Dia & Co](https://www.dia.com/careers) | New York, NY |
 | [DigitalOcean](https://www.digitalocean.com/company/careers/) | New York, NY; Remote |
 | [Disqus](https://disqus.com/jobs/) | San Francisco, CA |
 | [DJI](https://we.dji.com/career.html) | Palo Alto, CA |
@@ -121,6 +134,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Dropbox](https://www.dropbox.com/jobs) | New York, NY; San Francisco, CA; Seattle, WA |
 | [Duolingo](https://www.duolingo.com/jobs) | Pittsburgh, PA |
 | [EagleView](https://www.eagleview.com/careers) | Bothell, WA |
+| [Ebay](https://ebaycareers.jobs/) | San Jose, CA |
 | [Edmodo](https://www.edmodo.com/careers) | San Mateo, CA |
 | [Edmunds](https://www.edmunds.com/careers/) | Santa Monica, CA |
 | [EdX](https://www.edx.org/careers) | Cambridge, MA |
@@ -139,6 +153,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Faraday Future](https://www.ff.com/careers/) | Los Angeles, CA |
 | [Fastly](https://www.fastly.com/about/careers) | San Francisco, CA |
 | [Fictiv](https://jobs.lever.co/fictiv) | San Francisco, CA |
+| [Fidelity](https://jobs.fidelity.com/page/show/students) | Boston, MA |
 | [Fitbit](https://www.fitbit.com/careers) | Boston, MA; San Francisco, CA |
 | [FiveStars](http://www.fivestars.com/careers/) | Denver, Colorado; San Francisco, CA |
 | [Flatiron](https://www.flatiron.com/careers) | New York, NY |
@@ -154,6 +169,8 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Gigster](https://gigster.com/join-us) | San Francisco, CA |
 | [GitHub](https://github.com/about/careers) | San Francisco, CA; Remote |
 | [GitLab](https://about.gitlab.com/jobs/) | Remote |
+| [Goldman Sachs](http://www.goldmansachs.com/careers/) | New York, NY |
+| [Google](https://careers.google.com/) | Everywhere |
 | [GoDaddy](https://careers.godaddy.net/) | Culver City - Media Temple, CA; Gilbert, AZ; Kirkland, WA; Scottsdale, AZ; Sunnyvale, CA; Tempe, AZ |
 | [Gree](http://product.gree.net/us/en/careers/) | San Francisco, CA |
 | [Greenhouse](http://www.greenhouse.io/careers) | New York, NY |
@@ -182,6 +199,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Indeed](http://www.indeed.com/cmp/Indeed) | Austin, TX |
 | [Indiegogo](https://www.indiegogo.com/careers) | New York, NY; San Francisco, CA |
 | [Infinera](https://infinera.wd1.myworkdayjobs.com/Infinera_Careers) | Sunnyvale, CA |
+| [Informatica](https://informatica.gr8people.com/index.gp?method=cappportal.showCategory&categoryId=5) | Redwood City, CA |
 | [InfluxDB](https://www.influxdata.com/careers/) | Denver, CO; New York, NY; San Francisco, CA |
 | [InMobi](http://www.inmobi.com/company/careers/) | San Francisco, CA |
 | [InstaCart](https://careers.instacart.com/) | San Francisco, CA |
@@ -192,16 +210,21 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Interactive Intelligence](https://www.genesys.com/inin/careers) | Indianapolis, IN |
 | [Intercom](https://www.intercom.com/careers) | San Francisco, CA |
 | [Intrepid Pursuits](http://team.intrepid.io/careers) | Cambridge, MA |
+| [Intuit](https://careers.intuit.com/) | California |
 | [Invoice2go](https://invoice.2go.com/careers/) | Redwood City, CA |
 | [IXL Learning](https://www.ixl.com/company/jobs) | Raleigh-Durham, NC; San Mateo, CA |
+| [Jane Street](https://www.janestreet.com/join-jane-street/open-positions/) | New York; London; Hong Kong |
 | [Jawbone](https://jawbone.com/careers) | San Francisco, CA |
 | [Jet](https://jet.com/careers) | New York, NY |
 | [JetBrains](https://www.jetbrains.com/company/jobs/) | Cambridge, MA |
 | [Jive](https://www.jivesoftware.com/about-jive/careers/) | Portland, OR |
 | [Jobvite](http://www.jobvite.com/company/careers/) | San Mateo, CA |
+| [Juniper Networks](https://careers.juniper.net/careers/careers/) | Sunnyvale, CA |
 | [JustWatch](https://www.justwatch.com/us/talent) | Berlin, Germany |
+| [JW Player](https://boards.greenhouse.io/jwplayer#.WozmcxPwbow) | New York, NY |
 | [Kayak](https://www.kayak.com/careers) | Austin, TX; Berlin, Germany; Cambridge, MA; Concord, MA; Coral Gables, FL; Dallas, TX; Denver, CO; San Francisco, CA; Zurich, Switzerland |
 | [KeepSafe](https://www.getkeepsafe.com/careers.html) | San Francisco, CA |
+| [Kensho](https://www.kensho.com/careers) | New York, NY; Los Angeles, CA; Cambridge, MA |
 | [Khan Academy](https://www.khanacademy.org/careers) | Mountain View, CA; Remote |
 | [Kickstarter](https://www.kickstarter.com/jobs) | New York, NY |
 | [Kik](http://www.kik.com/careers/) | Waterloo, Canada |
@@ -224,6 +247,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Machine Zone](https://www.mz.com/careers) | Palo Alto, CA |
 | [Magic](https://getmagic.com/jobs) | San Francisco, CA |
 | [MailChimp](https://mailchimp.com/about/jobs/) | Atlanta, GA |
+| [Make Space](https://makespace.com/about/careers/engineering) | New York, NY; Waterloo, ON |
 | [Marketo](http://marketo.jobs/careers/) | San Mateo, CA |
 | [Mark 43](https://www.mark43.com/careers/) | New York, NY; Toronto; Washington, DC |
 | [Mattermark](https://mattermark.com/jobs/) | San Francisco, CA |
@@ -234,6 +258,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Mesosphere](https://mesosphere.com/careers/) | Hamburg, Germany; San Francisco, CA |
 | [Meteor](https://www.meteor.com/careers) | San Francisco, CA |
 | [Metromile](https://boards.greenhouse.io/metromile#.Vo7qppMrIo8) | Boston, MA; San Francisco, CA |
+| [Microsoft](https://careers.microsoft.com/) | Everywhere |
 | [Mind Candy](http://mindcandy.com/careers) | London, UK |
 | [MindTouch](https://mindtouch.com/about/careers) | San Diego, CA |
 | [MixBit](https://mixbit.com/jobs) | San Mateo, CA |
@@ -241,11 +266,13 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Mixpanel](https://mixpanel.com/jobs/) | San Francisco, CA |
 | [MLab](https://mlab.com/company/) | San Francisco, CA |
 | [MongoDB](https://www.mongodb.com/careers) | New York, NY; Palo Alto, CA |
+| [Morgan Stanley](https://www.morganstanley.com/people-opportunities/students-graduates) | New York, NY |
 | [Moz](https://moz.com/about/jobs) | Seattle, WA |
 | [Mozilla](https://careers.mozilla.org/) | Boston, MA; Remote; San Francisco, CA |
 | [MuleSoft](https://www.mulesoft.com/careers) | San Francisco, CA |
 | [Munchery](https://munchery.com/jobs/) | San Francisco, CA |
 | [Narrative Science](https://narrativescience.com/careers) | Chicago, IL |
+| [NASA](https://nasajobs.nasa.gov/default.htm) | Various |
 | [Nervana Systems](http://www.nervanasys.com/careers/) | San Diego, CA |
 | [Nest](http://nest.com/careers/life-at-nest/) | Kirkland, WA; Palo Alto, CA|
 | [New Relic](https://newrelic.com/about/careers) | San Francisco, CA |
@@ -254,10 +281,14 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Niantic](https://www.nianticlabs.com/jobs/) | Los Angeles, CA; San Francisco, CA; Seattle, WA; Sunnyvale, CA |
 | [Nulogy](https://nulogy.com/who-we-are/careers/) | Toronto, ON, Canada |
 | [Nutanix](https://www.nutanix.com/careers/) | San Jose, CA |
+| [Nvidia](http://www.nvidia.com/object/careers.html) | San Francisco, CA |
+| [Oath](https://www.oath.com/careers/job-openings?jobFamily=Engineering%20and%20Technology) | New York, NY |
 | [Oblong](http://www.oblong.com/company/careers/) | Los Angeles, CA |
+| [Oden Technologies](https://oden.io/joinus) | New York, NY |
 | [Okta](https://www.okta.com/company/careers/) | San Francisco, CA; Seattle, WA |
 | [Onefootball](https://www.onefootball.com/company/careers.html) | Berlin, Germany |
 | [OneLogin](https://www.onelogin.com/jobs) | San Francisco, CA |
+| [OpenAI](https://jobs.lever.co/openai) | San Francisco, CA |
 | [Open Whisper Systems](https://whispersystems.org/workworkwork/) | San Francisco, CA |
 | [Opendoor](https://www.opendoor.com/jobs) | San Francisco, CA |
 | [OpenTable](http://www.opentable.com/careers/) | San Francisco, CA |
@@ -281,6 +312,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Prominic](https://prominic.net/careers/) | Champaign, IL; Rantoul, IL |
 | [Pure Storage](https://www.purestorage.com/company/careers.html) | Bellevue, WA; Mountain View, CA |
 | [Qlik](http://www.qlik.com/us/company/careers) | San Francisco, CA |
+| [Qualcomm](https://www.qualcomm.com/company/careers) | San Diego, CA; San Jose, CA |
 | [Qualtrics](https://www.qualtrics.com/careers/) | Provo, UT; Seattle, WA |
 | [Quantcast](https://www.quantcast.com/careers/) | San Francisco, CA |
 | [Qubole](https://www.qubole.com/company/careers/) | Bangalore, India; Mountain View, CA |
@@ -310,6 +342,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Rover.com](http://jobs.rover.com/) | Seattle, WA |
 | [rubrik](https://www.rubrik.com/company/careers/) | Palo Alto, CA |
 | [SADA Systems](https://sadasystems.com/careers) | Los Angeles, CA |
+| [SalesForce](https://www.salesforce.com/company/careers/) | San Francisco, CA; Palo Alto, CA; New York, NY |
 | [ScoreBig](http://scorebig.applytojob.com/apply) | Los Angeles, CA |
 | [Scribd](https://www.scribd.com/about/jobs) | San Francisco, CA |
 | [Seamless](https://www.seamless.com/about/careers) | Chicago, IL; New York, NY |
@@ -336,6 +369,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Snapchat](https://www.snapchat.com/jobs) | Venice, CA |
 | [SocialBase](http://www.socialbase.com.br/carreiras) | Florianópolis, SC, Brazil |
 | [Socotra](https://www.socotra.com/careers/) | San Francisco, CA |
+| [Sony Playstation](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/880160#.Woz1-xPwbow) | San Francisco, CA |
 | [Source Intelligence](https://www.sourceintelligence.com/careers/) | San Diego, CA |
 | [SoundCloud](https://soundcloud.com/jobs) | Berlin, Germany; London, UK; New York, NY; San Francisco, CA |
 | [SpaceX](http://www.spacex.com/careers) | Hawthorne, CA |
@@ -395,6 +429,8 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [VHX](https://www.vhx.tv/jobs) | New York, NY |
 | [Viget](https://www.viget.com/careers) | Boulder, CO; Durham, NC |
 | [Vimeo](https://vimeo.com/jobs) | New York, NY |
+| [Visa](https://usa.visa.com/careers.html/) | California |
+| [VMWare](https://careers.vmware.com/category/engineering-and-technology-jobs/1567/44356/1) | Palo Alto, CA |
 | [Vox Media](https://www.voxmedia.com/careers) | New York, NY; Remote; Washington, D.C. |
 | [Vultr](https://www.vultr.com/corporate/careers/) | Matawan, NJ |
 | [Wattpad](https://www.wattpad.com/life/?jobs) | Toronto, ON, Canada |
@@ -408,6 +444,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Wolt](https://wolt.com/jobs) | Stockholm, Sweden; Copenhagen, Denmark; Turku, Finland; Helsinki, Finland |
 | [Work Market](https://www.workmarket.com/careers) | New York, NY |
 | [Workiva](https://www.workiva.com/careers) | Ames, IA |
+| [Workday](https://www.workday.com/en-us/company/careers.html) | California |
 | [Xero](https://www.xero.com/nz/about/careers/) | Australia;  London, UK; Milton Keynes, UK; New Zealand; Singapore |
 | [Yelp](https://www.yelp.com/careers/home) | San Francisco, CA |
 | [Yext](http://www.yext.com/careers/) | New York, NY |
