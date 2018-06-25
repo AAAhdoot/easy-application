@@ -1,6 +1,6 @@
 # Applications
 
-I took this from [j-delaney](https://github.com/j-delaney/easy-application) and [navdiana](https://github.com/navdiana/easy-application) but am making it only for NY/NJ.
+I took this from [j-delaney](https://github.com/j-delaney/easy-application) and [navdiana](https://github.com/navdiana/easy-application) but am making it only for NY/NJ/Remote.
 
 <!-- BEGIN DATA -->
 | Company Name | Location |
