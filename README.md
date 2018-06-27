@@ -5,6 +5,7 @@ I took this from [j-delaney](https://github.com/j-delaney/easy-application) and 
 <!-- BEGIN DATA -->
 | Company Name | Location |
 | --- | --- |
+| [Addepar](https://addepar.com/careers/) | Mountain View, CA; New York, NY |
 | [Angellist](https://angel.co/angellist/jobs) | San Francisco, CA; New York, NY |
 | [AppNexus](https://www.appnexus.com/en/company/careers) | New York, NY |
 | [Audible](https://www.audiblecareers.com/job/AUDIUS55/Software-Development-Engineer) | Newark, NJ |
@@ -12,7 +13,9 @@ I took this from [j-delaney](https://github.com/j-delaney/easy-application) and 
 | [Bitly](https://bitly.com/pages/careers) | Denver, CO; San Francisco, CA; New York, NY  |
 | [Bloomberg](https://www.bloomberg.com/careers/) | New York, NY |
 | [Box](https://www.box.com/careers) | London, UK; New York, NY; Redwood City, CA; San Fransisco, CA |
+| [Broadway Technology](https://corporate-broadwaytechnology.icims.com/jobs/search?ss=1&searchKeyword=software+engineer&searchCategory=8723&searchLocation=12781-12816-New+York) |New York, NY |
 | [BuzzFeed](https://www.buzzfeed.com/about/jobs) | Los Angeles, CA; New York, NY |
+| [Cadre](https://cadre.com/careers) | New York, NY |
 | [Canary](https://canary.is/careers/) | New York, NY |
 | [Capital One](https://www.capitalonecareers.com/) | New York, NY |
 | [Capsule](https://www.capsulecares.com/about/) | New York, NY |
@@ -45,7 +48,9 @@ I took this from [j-delaney](https://github.com/j-delaney/easy-application) and 
 | [Greenhouse](http://www.greenhouse.io/careers) | New York, NY |
 | [GrubHub](https://www.grubhub.com/about/careers) | New York, NY |
 | [Hippoverse](https://www.hippoverse.com/join_our_team) | Remote; San Diego, CA |
+| [Hootsuite](https://careers.hootsuite.com/global/en) | New York, NY |
 | [iCIMS](https://careers.icims.com) | Matawan, NJ |
+| [Ideo](https://www.ideo.com/jobs) | New York, NY ; CA ; MA; IL |
 | [IgnitionOne](https://www.ignitionone.com/company/careers/) | New York, NY; Atlanta, GA; |
 | [Indiegogo](https://www.indiegogo.com/careers) | New York, NY; San Francisco, CA |
 | [InfluxDB](https://www.influxdata.com/careers/) | Denver, CO; New York, NY; San Francisco, CA |
@@ -68,6 +73,8 @@ I took this from [j-delaney](https://github.com/j-delaney/easy-application) and 
 | [Oden Technologies](https://oden.io/joinus) | New York, NY |
 | [Oscar Health](https://www.hioscar.com/careers/) | New York, NY |
 | [Palantir](https://www.palantir.com/careers/) | New York, NY; Palo Alto, CA |
+| [Percolate](https://percolate.com/careers/engineering#joblist) | New York, NY; San Francisco, CA |
+| [Phosphorus](https://phosphorus.com/careers/) | New York, NY |
 | [Pivotal](https://pivotal.io/careers) | Atlanta, GA; Los Angeles, CA; New York, NY; San Francisco, CA |
 | [Roadtrippers](http://jobs.roadtrippers.com) | Cincinnati, OH; Remote |
 | [SalesForce](https://www.salesforce.com/company/careers/) | San Francisco, CA; Palo Alto, CA; New York, NY |
@@ -85,11 +92,13 @@ I took this from [j-delaney](https://github.com/j-delaney/easy-application) and 
 | [Symphony](https://symphony.com/company/careers) | New York, NY; Palo Alto, CA |
 | [Tango](https://www.tango.me/careers/) | New York, NY |
 | [TED](https://www.ted.com/about/our-organization/jobs-at-ted) | New York, NY |
+| [Tendigi](http://tendigi.com/) |  |
 | [The Internet Archive](https://archive.org/about/jobs.php) | Remote; Richmond, CA; San Francisco, CA |
 | [The League](http://www.theleague.com/jobs/) |  |
 | [ThoughtWorks](https://www.thoughtworks.com/careers) | Worldwide |
 | [Trail](http://careers.trailapp.com) | London, UK; Remote |
 | [Travis CI](https://travisci.workable.com/) | Remote, US |
+| [Trello](https://trello.com/jobs) | New York, NY |
 | [TripAdvisor](https://www.tripadvisor.com/careers/) | Boston, MA; New York, NY; San Francisco, CA |
 | [Trustwave](https://careers.trustwave.com) | Austin, TX; Chicago, IL; New York, NY; Pittsburgh, PA |
 | [Tumblr](https://www.tumblr.com/jobs) | New York, NY; San Francisco, CA |
@@ -102,6 +111,7 @@ I took this from [j-delaney](https://github.com/j-delaney/easy-application) and 
 | [Vox Media](https://www.voxmedia.com/careers) | New York, NY; Remote; Washington, D.C. |
 | [Vultr](https://www.vultr.com/corporate/careers/) | Matawan, NJ |
 | [WayUp](https://www.wayup.com/joinus/) | New York, NY |
+| [WeWork](https://www.wework.com/careers/department/technology) | New York, NY |
 | [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Work_with_us) | Remote; San Francisco, CA |
 | [Work Market](https://www.workmarket.com/careers) | New York, NY |
 | [Yext](http://www.yext.com/careers/) | New York, NY |
