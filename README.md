@@ -40,6 +40,7 @@ I took this from [j-delaney](https://github.com/j-delaney/easy-application) and 
 | [Flatiron](https://www.flatiron.com/careers) | New York, NY |
 | [Flexport](https://www.flexport.com/careers) | Amsterdam, NL; Hong Kong Island, HK; New York, NY; San Francisco, CA; Shenzen, CN;|
 | [Flipboard](https://about.flipboard.com/careers/) | New York, NY; Palo Alto, CA |
+| [Foursquare](https://foursquare.com/careers) | New York, NY |
 | [frame.ai](https://frame-ai.workable.com/) | New York, NY |
 | [General Assembly](https://generalassemb.ly/careers) | New York, NY |
 | [GitLab](https://about.gitlab.com/jobs/) | Remote |
@@ -89,6 +90,7 @@ I took this from [j-delaney](https://github.com/j-delaney/easy-application) and 
 | [Square](https://squareup.com/careers) | Atlanta, GA; New York, NY; San Francisco, CA |
 | [Squarespace](https://www.squarespace.com/about/careers) | New York, NY |
 | [Stitch Fix](https://www.stitchfix.com/careers) | Austin, TX; Bethlehem, PA; Dallas, TX; Phoenix, AZ; Pittsburg, PA; Remote, US; San Francisco, CA|
+| [StreetEasy](https://streeteasy.com/jobs) | New York, NY |
 | [Symphony](https://symphony.com/company/careers) | New York, NY; Palo Alto, CA |
 | [Tango](https://www.tango.me/careers/) | New York, NY |
 | [TED](https://www.ted.com/about/our-organization/jobs-at-ted) | New York, NY |
