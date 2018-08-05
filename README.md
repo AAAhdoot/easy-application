@@ -33,7 +33,7 @@ I took this from [j-delaney](https://github.com/j-delaney/easy-application) and 
 | [Dia & Co](https://www.dia.com/careers) | New York, NY |
 | [DigitalOcean](https://www.digitalocean.com/company/careers/) | New York, NY; Remote |
 | [Dot & Bo](https://www.dotandbo.com/content/jobs) | New York, NY |
-| [DraftKings](http://careers.draftkings.com/) | Boston, MA; New York, NY |
+| [DraftKings](http://careers.draftkings.com/apply.html) | Boston, MA; New York, NY |
 | [Dropbox](https://www.dropbox.com/jobs) | New York, NY; San Francisco, CA; Seattle, WA |
 | [Etsy](https://www.etsy.com/careers/) | New York, NY |
 | [Facebook](https://www.facebook.com/careers/) | Boston, MA; Los Angeles, CA; Menlo Park, CA; New York, NY; Redmond, WA; San Francisco, CA; Seattle, WA |
