@@ -18,16 +18,16 @@ I took this from [j-delaney](https://github.com/j-delaney/easy-application) and 
 | [Cadre](https://cadre.com/careers) | New York, NY |
 | [Canary](https://canary.is/careers/) | New York, NY |
 | [Capital One](https://www.capitalonecareers.com/) | New York, NY |
-| [Capsule](https://www.capsulecares.com/about/) | New York, NY |
+| [Capsule](https://boards.greenhouse.io/capsulecares) | New York, NY |
 | [Casper](http://www.casper.com/jobs) | New York, NY |
 | [Catchpoint](http://www.catchpoint.com/careers/) | New York, NY |
 | [Celmatix](https://celmatix.com/careers) | New York, NY |
 | [ChartBeat](https://chartbeat.com/careers/) | New York, NY |
-| [Chexology](https://jobs.lever.co/chexology) | New York, NY |
+| [Chexology](https://hire.withgoogle.com/public/jobs/chexologycom) | New York, NY |
 | [Codecademy](https://www.codecademy.com/about/jobs) | New York, NY |
 | [Compass](https://www.compass.com/careers/) | New York, NY |
 | [CoreOS](https://coreos.com/careers/) | Berlin, DE; New York, NY; San Francisco, CA; |
-| [Curse](https://www.curseinc.com/careers?cookieTest=1) | Astoria, NY; Berlin, Germany; El Segundo, CA; Huntsville, AL; Irvine, CA; London; Paris, France; Sydney, Australia |
+| [Curse](https://www.fandom.com/careers) | Astoria, NY; Berlin, Germany; El Segundo, CA; Huntsville, AL; Irvine, CA; London; Paris, France; Sydney, Australia |
 | [Curalate](https://www.themuse.com/companies/curalate) | London, UK; New York, NY; Philadelphia, PA; Seattle, WA |
 | [Datadog](https://www.datadoghq.com/careers/) | Boston, MA; New York, NY; Paris, FR |
 | [Dia & Co](https://www.dia.com/careers) | New York, NY |
@@ -37,9 +37,9 @@ I took this from [j-delaney](https://github.com/j-delaney/easy-application) and 
 | [Dropbox](https://www.dropbox.com/jobs) | New York, NY; San Francisco, CA; Seattle, WA |
 | [Etsy](https://www.etsy.com/careers/) | New York, NY |
 | [Facebook](https://www.facebook.com/careers/) | Boston, MA; Los Angeles, CA; Menlo Park, CA; New York, NY; Redmond, WA; San Francisco, CA; Seattle, WA |
-| [Flatiron](https://www.flatiron.com/careers) | New York, NY |
+| [Flatiron](https://flatiron.com/careers/open-positions/) | New York, NY |
 | [Flexport](https://www.flexport.com/careers) | Amsterdam, NL; Hong Kong Island, HK; New York, NY; San Francisco, CA; Shenzen, CN;|
-| [Flipboard](https://about.flipboard.com/careers/) | New York, NY; Palo Alto, CA |
+| [Flipboard](https://about.flipboard.com/team/engineering-team/) | New York, NY; Palo Alto, CA |
 | [Foursquare](https://foursquare.com/careers) | New York, NY |
 | [frame.ai](https://frame-ai.workable.com/) | New York, NY |
 | [General Assembly](https://generalassemb.ly/careers) | New York, NY |
@@ -55,7 +55,7 @@ I took this from [j-delaney](https://github.com/j-delaney/easy-application) and 
 | [IgnitionOne](https://www.ignitionone.com/company/careers/) | New York, NY; Atlanta, GA; |
 | [Indiegogo](https://www.indiegogo.com/careers) | New York, NY; San Francisco, CA |
 | [InfluxDB](https://www.influxdata.com/careers/) | Denver, CO; New York, NY; San Francisco, CA |
-| [Integral Ad Science](https://integralads.com/about/careers/) | New York, NY; Seattle, WA |
+| [Integral Ad Science](https://integralads.com/careers/job-openings/) | New York, NY; Seattle, WA |
 | [Jane Street](https://www.janestreet.com/join-jane-street/open-positions/) | New York; London; Hong Kong |
 | [Jet](https://jet.com/careers) | New York, NY |
 | [JW Player](https://boards.greenhouse.io/jwplayer#.WozmcxPwbow) | New York, NY |
@@ -75,7 +75,7 @@ I took this from [j-delaney](https://github.com/j-delaney/easy-application) and 
 | [Oscar Health](https://www.hioscar.com/careers/) | New York, NY |
 | [Palantir](https://www.palantir.com/careers/) | New York, NY; Palo Alto, CA |
 | [Percolate](https://percolate.com/careers/engineering#joblist) | New York, NY; San Francisco, CA |
-| [Phosphorus](https://phosphorus.com/careers/) | New York, NY |
+| [Phosphorus](https://phosphorus.breezy.hr/) | New York, NY |
 | [Pivotal](https://pivotal.io/careers) | Atlanta, GA; Los Angeles, CA; New York, NY; San Francisco, CA |
 | [Roadtrippers](http://jobs.roadtrippers.com) | Cincinnati, OH; Remote |
 | [SalesForce](https://www.salesforce.com/company/careers/) | San Francisco, CA; Palo Alto, CA; New York, NY |
@@ -94,7 +94,6 @@ I took this from [j-delaney](https://github.com/j-delaney/easy-application) and 
 | [Symphony](https://symphony.com/company/careers) | New York, NY; Palo Alto, CA |
 | [Tango](https://www.tango.me/careers/) | New York, NY |
 | [TED](https://www.ted.com/about/our-organization/jobs-at-ted) | New York, NY |
-| [Tendigi](http://tendigi.com/) |  |
 | [The Internet Archive](https://archive.org/about/jobs.php) | Remote; Richmond, CA; San Francisco, CA |
 | [The League](http://www.theleague.com/jobs/) |  |
 | [ThoughtWorks](https://www.thoughtworks.com/careers) | Worldwide |
@@ -115,6 +114,7 @@ I took this from [j-delaney](https://github.com/j-delaney/easy-application) and 
 | [WayUp](https://www.wayup.com/joinus/) | New York, NY |
 | [WeWork](https://www.wework.com/careers/department/technology) | New York, NY |
 | [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Work_with_us) | Remote; San Francisco, CA |
+| [Work & Co](https://work.co/careers/technology) | Brooklyn, NY; Portland, OR |
 | [Work Market](https://www.workmarket.com/careers) | New York, NY |
 | [Yext](http://www.yext.com/careers/) | New York, NY |
 | [YouNow](https://www.younow.com/careers) | New York, NY |
